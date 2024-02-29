@@ -1,0 +1,13 @@
+{
+    // DO NOT ADD IT TO GIT IGNORE
+    "dart.flutterSdkPath": ".fvm/flutter_sdk",
+    "editor.inlineSuggest.enabled": true,
+    // Remove .fvm files from search
+    "search.exclude": {
+        "**/.fvm": true
+    },
+    // Remove from file watching
+    "files.watcherExclude": {
+        "**/.fvm": true
+    }
+}
